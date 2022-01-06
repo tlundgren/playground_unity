@@ -14,16 +14,15 @@ Controls: WASD (movement), space (jump).
 
 ## Screenshots
 Gameplay.
-<img src="/Media/gameplay1.png" alt="Gameplay One" />
-
+<img src="https://github.com/tlundgren/playground_unity/blob/main/Projects/GameOfObstacles/Media/gameplay1.png" alt="Gameplay One" />
 
 Gameplay.
-<img src="/Media/gameplay2.png" alt="Gameplay Two" />
+<img src="https://github.com/tlundgren/playground_unity/blob/main/Projects/GameOfObstacles/Media/gameplay2.png" alt="Gameplay Two" />
 
 
 Preview GUI.
-<img src="/Media/preview.png" alt="Preview GUI" />
+<img src="https://github.com/tlundgren/playground_unity/blob/main/Projects/GameOfObstacles/Media/preview.png" alt="Preview GUI" />
 
 
 Previewing a level.
-<img src="/Media/preview.png" alt="Level Preview" />
+<img src="https://github.com/tlundgren/playground_unity/blob/main/Projects/GameOfObstacles/Media/previewing.png" alt="Level Preview" />
