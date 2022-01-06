@@ -8,7 +8,7 @@ If you happen to land here, consider that these projects may well not follow goo
 programming practices. Rather, assume they are like a quick, incomplete, sketch.
 
 ## Projects
-- The Game of Obstacles, [link](https://github.com/tlundgren/unity_playground/blob/Projects/GameOfObstacles/readme.md).
+- The Game of Obstacles, [link](https://github.com/tlundgren/playground_unity/blob/main/Projects/GameOfObstacles/readme.md).
 The player must make it to the exit point. If they are hit or shot by an enemy, or pierced by a trap, they die.
 
 
